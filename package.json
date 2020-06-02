@@ -1,6 +1,6 @@
 {
   "name": "sword",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "WebXR Sword",
   "main": "index.js",
   "dependencies": {
